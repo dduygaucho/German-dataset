@@ -10,6 +10,7 @@
 
 </ul>
 
+<h1> Findings </h1>
 <p>
 There are 2 important folders and files in this repo:   </p>
 Dataset: 
